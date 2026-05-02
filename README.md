@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nelson Peralta 👋</h1>h1>
 
 <h3 align="center">Data & Telecom Analyst | Python · SQL · Power BI · Tableau · Excel</h3>h3>
-<h4 align="center">MSc Big Data Analytics | Open to Remote US Opportunities 🌎</h4>h4>
+<h4 align="center">MSc Big Data Analytics ✓ Completed | Open to Remote US Opportunities 🌎</h4>h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nelson-peralta-analyst/" target="_blank">
@@ -18,7 +18,7 @@
 I'm a **Data & Telecom Analyst** with **5+ years of experience** in network operations, AMI systems, and data analysis within the telecommunications sector. Currently working as a **Telemanagement Analyst**, using Python, SQL, and Power BI to monitor and optimize national network performance across Honduras.
 
 - 🔭 Currently working at **Programa Nacional para la Reducción de Pérdidas**
-- - 🎓 Pursuing **MSc in Big Data Analytics & Data Visualization** at UNIR México (2026)
+- - 🎓 **MSc in Big Data Analytics & Data Visualization** – UNIR México (2026) ✓ Completed
   - - 🌱 Currently deepening skills in **Machine Learning & Data Pipelines**
     - - 💬 Ask me about **Python, SQL, Power BI, Telecom Networks, AMI Systems**
       - - 📫 Reach me at: **nejoteruel@hotmail.com**
